@@ -7,3 +7,6 @@ print("tomer")
 
 def new():
     print("hello")
+
+def print_age():
+    print("yor age")
